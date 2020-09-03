@@ -1,0 +1,10 @@
+# This is for the awesome git pair https://plugins.jetbrains.com/plugin/8135 plugin.
+# But it works with the Pivotal Labs `git pair` plugin too.
+
+pairs:
+  sk: Sanjana;sanjana17
+
+email_addresses:
+  sk: navyasanjana4@gmail.com
+
+global: true
